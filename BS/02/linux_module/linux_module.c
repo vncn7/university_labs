@@ -1,8 +1,3 @@
-/*
- * Simple example to show Kernel Module Programming
- *
- * Author: Rainer Keller, HFT-Stuttgart
- */
 #include <linux/kernel.h>
 #include <linux/module.h>
 
