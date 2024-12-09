@@ -1,17 +1,5 @@
 #!/bin/bash					
 
-#################################################
-# Solution "Labor 1 Betriebssysteme" # SS23 TIB	#
-#################################################
-# Usage:										#
-# last_analysis.sh								#
-# 	-h, --help:	Show help						#
-# 	-r, --runtime:	Show uptime of reboots		#
-# 	-u, --user:	Show number of logins			#
-#################################################
-# Authors: 										#
-# Tested on: Ubuntu 22.04.2; Fedora 37			#
-#################################################	
 
 function show_help {
     	echo "Usage: last_analysis.sh [-h|--help] [-r|--runtime] [-u|--user]"
